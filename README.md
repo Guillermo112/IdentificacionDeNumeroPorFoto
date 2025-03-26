@@ -6,3 +6,5 @@ Descripción:
 1. Se utiliza el conjunto de datos "MNIST" de dígitos escritos a mano.
 2. Se construye una red neuronal convolucional (CNN).
 3. Se entrena el modelo y evalúa su rendimiento en el conjunto de datos de prueba.
+
+El módelo esta en el archivo "Ejercicio 3.ipynb"
